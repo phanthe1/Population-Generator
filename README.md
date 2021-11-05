@@ -17,3 +17,17 @@ vice versa.
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
+To run the GUI, run the following command
+```
+python population-generator.py
+```
+
+If there is an input CSV file, please make sure you have the following:
+1. Ensure that the input.csv file is located within the same directory as the python files.
+2. The required format for ```input.csv``` (with header): ```input)year, input_state```
+
+Then, run the following command 
+```
+python population-generator.py input.csv
+```
+Check output file ```output.csv``` for results
