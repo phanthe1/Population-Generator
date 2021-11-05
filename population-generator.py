@@ -1,5 +1,4 @@
 # ==================================================
-# CS361 - Sprint 4
 # Name: Theresa Phan
 # Date: February 13, 2021
 # Population Generator Project
