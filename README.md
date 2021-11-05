@@ -24,7 +24,7 @@ python population-generator.py
 
 If there is an input CSV file, please make sure you have the following:
 1. Ensure that the input.csv file is located within the same directory as the python files.
-2. The required format for ```input.csv``` (with header): ```input)year, input_state```
+2. The required format for ```input.csv``` (with header): ```input_year, input_state```
 
 Then, run the following command 
 ```
