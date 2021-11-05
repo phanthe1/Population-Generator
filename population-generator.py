@@ -23,7 +23,7 @@ class myService(rpyc.Service):
         print("Disconnected!")
         pass
     
-    # Exponsed method
+    # Exposed method
     def exposed_get_population(self, state, year):
 
         return get_population(state, year)
