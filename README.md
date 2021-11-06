@@ -33,5 +33,5 @@ python population-generator.py input.csv
 Check output file ```output.csv``` for results
 
 ## Built With
-* [Tkinter](https://docs.python.org/3/library/tkinter.html) - The framework library used
+* [Tkinter](https://docs.python.org/3/library/tkinter.html) - GUI library for Python
 * [RPyC](https://rpyc.readthedocs.io/en/latest/install.html)- Python library for remote procedure calls
